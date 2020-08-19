@@ -1,0 +1,35 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+
+.row .header-logo {
+  width: 200px;
+  height:auto;
+  margin-right: 50px;
+}
+.header-nav a {
+  margin: auto 35px auto 35px; 
+  text-decoration: none;
+  color:white;
+  font-size: 24px;
+}
+.navbar-nav a:hover,a:active {
+  background-color: darkcyan;
+  border-radius: 5px;
+  padding: 10px 10px;
+}
+.link-line {
+  text-decoration: none;
+}
+.font-for-fig {
+  font-size: x-small;
+  text-align: center;
+}
+.height-edit {
+  height: 330px;
+}
+/* footer {
+  background-color: #EEEEEE;
+  border-radius: 5px;
+} */
